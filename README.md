@@ -4,6 +4,34 @@ This package makes available datasets that have won the Lijphart/Przeworski/Verb
 
 The full list of datasets can be found, here: [apsanet.org](https://www.apsanet.org/STAFF/Membership-Workspace/Organized-Sections/Organized-Section-Awards/Organized-Section-Awards/Section-20#dataset)
 
+
+| Year | Dataset                           | Author  |
+| -----|:-------------------------------- :| -------:|
+| 1999 | Civic Culture Data Set            | Gabriel Almond & Sidney Verba |
+| 2000 | Data Sets on Polyarchy and Latin American Political Parties|Michael Coppedge|
+| 2001 |                                   |         |
+| 2002 |                                   |         |
+| 2003 |                                   |         |
+| 2004 |                                   |         |
+| 2005 |                                   |         |
+| 2006 |                                   |         |
+| 2007 |                                   |         |
+| 2008 |                                   |         |
+| 2009 |                                   |         |
+| 2010 |                                   |         |
+| 2011 |                                   |         |
+| 2012 |                                   |         |
+| 2013 |                                   |         |
+| 2014 | Archigos: A Database of Political Leaders                            |Hein Goemans, Giacomo Chiozza & Kristian Gleditsch |
+| 2015 |                                   |         |
+| 2016 |                                   |         |
+| 2017 |                                   |         |
+| 2018 |                                   |         |
+| 2019 |                                   |         |
+| 2020 |                                   |         |
+| 2021 |                                   |         |
+| 2022 |                                   |         |
+
 ## 2014: Archigos: A Database of Political Leaders
 The Archigos dataset has won the 2014 Lijphart/Przeworski/Verba Award for the Best Dataset in Comparative Politics from the Comparative Politics section of the American Political Science Association
 
