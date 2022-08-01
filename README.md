@@ -19,7 +19,7 @@ The full list of datasets can be found, here: [apsanet.org](https://www.apsanet.
 | 2017 | [Global State Revenue and Expenditures Data Set]() | Thomas Richter, Viola Lucas |
 | 2016 | [Varieties of Democracy (V-Dem) Data Set]() | Michael Coppedge, John Gerring, Staffan I. Lindberg |
 | 2015 | [The Autocratic Regimes Data Set]() | Barbara Geddes, Joseph Wright, Erica Frantz |
-| 2014 | [Archigos: A Data Set on Leaders 1875-2004](http://ksgleditsch.com/archigos.html) | Hein Goemans, Giacomo Chiozza, Kristian Gleditsch |
+| 2014 | [Archigos: A Data Set on Leaders 1875-2004](http://ksgleditsch.com/archigos.html) | Hein Goemans, Giacomo Chiozza, Kristian Gleditsch |[Introducing Archigos: A Dataset of Political Leaders](https://journals.sagepub.com/doi/abs/10.1177/0022343308100719)
 | 2013 | [Comparative Constitutions Project]() | Tom Ginsburg, Zachary Elkins, James Melton |
 | 2012 | [Constituency-Level Elections Archive (CLEA)]() | Kenneth Kollman, Allen Hicken, Daniele Caramani |
 | 2011 | [Uppsala Conflict Data Program]() | Peter Wallensteen |
@@ -71,7 +71,6 @@ The full list of datasets can be found, here: [apsanet.org](https://www.apsanet.
 
 
 ## 2014: Archigos: A Database of Political Leaders
-The Archigos dataset has won the 2014 Lijphart/Przeworski/Verba Award for the Best Dataset in Comparative Politics from the Comparative Politics section of the American Political Science Association
 
 Journal article: https://journals.sagepub.com/doi/abs/10.1177/0022343308100719
 
