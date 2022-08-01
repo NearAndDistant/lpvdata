@@ -6,7 +6,7 @@ The full list of datasets can be found, here: [apsanet.org](https://www.apsanet.
 
 
 | Year | Dataset                           | Author  |
-| -----|:-------------------------------- :| -------:|
+| -----|-------------------------------- | -------|
 | 1999 | Civic Culture Data Set            | Gabriel Almond & Sidney Verba |
 | 2000 | Data Sets on Polyarchy and Latin American Political Parties|Michael Coppedge|
 | 2001 |                                   |         |
