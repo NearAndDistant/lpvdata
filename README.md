@@ -5,8 +5,8 @@ This package makes available datasets that have won the Lijphart/Przeworski/Verb
 The full list of datasets can be found, here: [apsanet.org](https://www.apsanet.org/STAFF/Membership-Workspace/Organized-Sections/Organized-Section-Awards/Organized-Section-Awards/Section-20#dataset)
 
 
-| Year | Dataset | Author | Article |
-| -----|---------|--------|---------|
+| Year | Dataset | Short Description | Author | Article |
+| -----|---------|-------------------|--------|---------|
 | 2022 | [Quota Adoption and Reform Over Time (QAROT)]() | Amanda Clayton, Melanie M. Hughes, Pamela Paxton |
 | 2021 | [Who governs?]() | Stuart Bramwell, Jacob Nyrup |
 | 2021 | [Measuring Immigration Policies: The IMPIC Database]() | Marc Helbling, Liv Bjerre, Friederike Römer |
@@ -19,7 +19,7 @@ The full list of datasets can be found, here: [apsanet.org](https://www.apsanet.
 | 2017 | [Global State Revenue and Expenditures Data Set]() | Thomas Richter, Viola Lucas |
 | 2016 | [Varieties of Democracy (V-Dem) Data Set]() | Michael Coppedge, John Gerring, Staffan I. Lindberg |
 | 2015 | [The Autocratic Regimes Data Set]() | Barbara Geddes, Joseph Wright, Erica Frantz |
-| 2014 | [Archigos: A Data Set on Leaders 1875-2004](http://ksgleditsch.com/archigos.html) | Hein Goemans, Giacomo Chiozza, Kristian Gleditsch |[Introducing Archigos: A Dataset of Political Leaders](https://journals.sagepub.com/doi/abs/10.1177/0022343308100719)
+| 2014 | [Archigos: A Data Set on Leaders 1875-2004](http://ksgleditsch.com/archigos.html) | provide a list of leaders for all independent states in the world | Hein Goemans, Giacomo Chiozza, Kristian Gleditsch |[Introducing Archigos: A Dataset of Political Leaders](https://journals.sagepub.com/doi/abs/10.1177/0022343308100719)
 | 2013 | [Comparative Constitutions Project]() | Tom Ginsburg, Zachary Elkins, James Melton |
 | 2012 | [Constituency-Level Elections Archive (CLEA)]() | Kenneth Kollman, Allen Hicken, Daniele Caramani |
 | 2011 | [Uppsala Conflict Data Program]() | Peter Wallensteen |
