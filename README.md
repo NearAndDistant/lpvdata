@@ -4,9 +4,11 @@ This package makes available datasets that have received honours or won the Lijp
 
 you can install the development version from Github:
 
+```R
 library(devtools)
-install_github("juliasilge/janeaustenr")
-library(janeaustenr)
+install_github("NearAndDistant/lpvdata")
+library(lpvdata)
+```
 
 ## LPV Datasets and Codebooks
 Below shows the year, code within this package, name and description of each LPV dataset. Where applicable I have linked an online copy of the codebook for each dataset. Where this is not possible I have downloaded and provided the codebook in this repository.
