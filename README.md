@@ -2,10 +2,16 @@
 
 This package makes available datasets that have received honours or won the Lijphart/Przeworski/Verba Award for publicly available datasets in comparative public policy.
 
-The full list of datasets can be found, here: [apsanet.org](https://www.apsanet.org/STAFF/Membership-Workspace/Organized-Sections/Organized-Section-Awards/Organized-Section-Awards/Section-20#dataset)
+you can install the development version from Github:
+
+library(devtools)
+install_github("juliasilge/janeaustenr")
+library(janeaustenr)
 
 ## LPV Datasets and Codebooks
-Below shows the year, code within this package, name and description of each LPV dataset. Where applicable I have linked an online copy of the codebook for each dataset. Where this is not possible I have downloaded and provided the codebook here.
+Below shows the year, code within this package, name and description of each LPV dataset. Where applicable I have linked an online copy of the codebook for each dataset. Where this is not possible I have downloaded and provided the codebook in this repository.
+
+The original LPV list can be found, here: [apsanet.org](https://www.apsanet.org/STAFF/Membership-Workspace/Organized-Sections/Organized-Section-Awards/Organized-Section-Awards/Section-20#dataset)
 
 | Year |    Code   | Dataset | Description | Codebook |
 |------|-----------|---------|-------------|----------|
